@@ -1,0 +1,48 @@
+/*csslint order-alphabetical: false */
+
+body{
+    background-color: #D6E3F2;
+}
+.fo-menu{
+    background-color: #262F73;
+    height: 80px;
+    width: 1000px;
+    margin-bottom: 20px;
+}
+
+.menupont {
+    height: 80px ;
+    width: 150px ;
+    background-color:#45698E ;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 75px;
+    
+}
+.kozep-doboz{
+    background-color: #262F73;  
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.doboz{
+    color: black;
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+    background-color: #26E173;
+    text-align: center;
+    margin: 75px 25px 75px 25px;
+    overflow: hidden;
+}
+.tartalom{
+    background-color: #45698E;
+    width: 960px;
+    height: 1000px;
+    color: white;
+    padding: 20px 20px 20px 20px;
+}
+
+
