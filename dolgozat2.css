@@ -1,0 +1,76 @@
+/*csslint order-alphabetical: false*/
+body {
+  font-family: 'Montserrat', sans-serif;
+    padding: 50px;
+    background-color: #488ccd;
+}
+.felul{
+    font-weight: 200;;
+    margin: 40px 0 40px 0;
+    color: white;
+    font-size: 30px;
+ 
+}
+
+.fo-menu{
+    width: 800px;
+    background-color: #284c80;
+    
+    
+}
+.menupont{
+    color: rgb(188,248,255);
+        display: inline-block;
+    width: 100px;
+    text-align: center;
+    line-height: 70px;
+    overflow: hidden;
+    height: 70px;
+    
+    
+    
+}
+.menupont:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: underline;
+    
+    
+}
+
+.szoveg{
+    margin-bottom: 5px;
+    color:rgb(237,245,255);
+    font-size: 40px;
+    
+}
+.datum{
+    font-style: italic;
+    font-size: 14px;
+    color: #284c80;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    
+}
+.tartalom{
+    width: 800px;
+    color:white;
+    line-height: 1.7;
+}
+.bevezeto{ 
+    
+    font-size: 20px;
+    margin-bottom: 40px;
+    
+}
+
+  
+
+
+  
+
+
+
+
+    
+   
